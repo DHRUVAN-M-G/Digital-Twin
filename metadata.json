@@ -1,0 +1,6 @@
+{
+  "name": "EcoTwin - AI Campus Digital Twin",
+  "description": "Digital Twin of a sustainable university campus integrating Computer Vision, IoT sensor telemetry, and Generative AI for waste, energy, and water management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
